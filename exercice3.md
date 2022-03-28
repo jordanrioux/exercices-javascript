@@ -1,5 +1,6 @@
 # Exercice #03
 
+Vous allez faire une petite page HTML dans le but de faire des opérations sur les tableaux.
 
 # Instructions
 
