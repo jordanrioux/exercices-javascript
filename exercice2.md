@@ -22,7 +22,7 @@ displayEachLetterAsciiCode("Hello");
   * `const capitalizedString = capitalize("hello"); // "Hello" `
 3. Créer une fonction `uncapitalize` qui fait l'inverse de la fonction précédente.
 3. Créer une fonction `reverseString` qui prend une chaîne de caractère et l'inverse.
-  * `const reversedString = reverseString("hello"); // "olleH" 
+  * `const reversedString = reverseString("hello"); // "olleH"
 
 4. Créer une fonction `isPalindrome` qui vérifiera si une chaîne de caractère est un palindrome ou non (la fonction doit être `case insensitive`).
 ```js
