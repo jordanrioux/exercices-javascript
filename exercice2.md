@@ -38,4 +38,5 @@ isPalindrome("Laval"); // true
 9. Créer une fonction `contains` qui vérifiera si une chaîne de caractère contient une autre chaîne de caractère.
   * `contains("Hello World", "World"); // true`
 
+10. Faites une page HTML permettant d'appeler certains fonctions pour vous pratiquer (e.g. un champs de texte et un bouton pour valider le code postal, etc.).
 
